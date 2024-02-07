@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## 📊 Github stats
 
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->.
+<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 
 <div align="left" >
 <img alt="Harrykuo1's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harrykuo1&theme=nord_dark" height="192px" />
